@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Level name="Level4_5" startX="2" startY="10" width="64" theme="0">
+    <Ground y="0" x="2" width="4" height="5"/>
+    <MovingPlatform y="4" x="6" width="16" height="1" speed="4" movement="bounce" orientation="horizontal" platformWidth="3" direction="W"/>
+    <Ground y="0" x="22" width="3" height="5"/>
+    <MovingPlatform y="0" x="25" width="3" height="16" speed="2" movement="continuous" orientation="vertical" platformWidth="3" direction="N"/>
+    <MovingPlatform y="0" x="28" width="3" height="16" speed="1" movement="continuous" orientation="vertical" platformWidth="3" direction="N"/>
+    <MovingPlatform y="0" x="31" width="3" height="16" speed="3" movement="continuous" orientation="vertical" platformWidth="3" direction="N"/>
+    <MovingPlatform y="0" x="34" width="3" height="16" speed="2" movement="continuous" orientation="vertical" platformWidth="3" direction="N"/>
+    <Ground y="0" x="37" width="3" height="5"/>
+    <MovingPlatform y="4" x="40" width="16" height="1" speed="4" movement="bounce" orientation="horizontal" platformWidth="3" direction="W"/>
+    <Ground y="0" x="56" width="8" height="5"/>
+    <Portal y="5" x="61" width="3" height="3" hidden="NO" nextLevel="30"/>
+</Level>

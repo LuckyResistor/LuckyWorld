@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Level name="Level2_4" startX="4" startY="2" width="128" theme="1">
+    <Ground x="0" y="0" width="16" height="2"/>
+    <Ground y="2" x="7" width="2" height="2"/>
+    <Ground y="0" x="16" width="3" height="2"/>
+    <Lava y="0" x="19" width="3" height="1"/>
+    <Canon y="3" x="9" width="1" height="1" speed="2" interval="6" direction="E"/>
+    <Ground y="0" x="22" width="5" height="2"/>
+    <Lava y="0" x="27" width="3" height="1"/>
+    <Ground y="0" x="30" width="12" height="2"/>
+    <Ground y="2" x="34" width="2" height="3"/>
+    <Canon y="4" x="36" width="1" height="1" speed="2" interval="3" direction="E"/>
+    <Canon y="3" x="36" width="1" height="1" speed="2" interval="5" direction="E"/>
+    <Lava y="0" x="42" width="3" height="1"/>
+    <Ground y="0" x="45" width="4" height="3"/>
+    <Lava y="0" x="49" width="3" height="1"/>
+    <Ground y="0" x="52" width="4" height="2"/>
+    <Lava y="0" x="56" width="3" height="1"/>
+    <Ground y="0" x="59" width="4" height="3"/>
+    <Canon y="7" x="55" width="1" height="1" speed="3" interval="5" direction="SE"/>
+    <Canon y="7" x="64" width="1" height="1" speed="3" interval="4" direction="SW"/>
+    <Ground y="5" x="6" width="12" height="11"/>
+    <Ground y="5" x="23" width="3" height="11"/>
+    <Ground y="7" x="26" width="15" height="9"/>
+    <Ground y="8" x="41" width="16" height="8"/>
+    <Ground y="7" x="18" width="5" height="9"/>
+    <Lava y="0" x="63" width="3" height="2"/>
+    <Ground y="0" x="66" width="4" height="3"/>
+    <Lava y="0" x="70" width="3" height="2"/>
+    <Ground y="0" x="73" width="4" height="4"/>
+    <Lava y="0" x="77" width="3" height="3"/>
+    <Ground y="0" x="80" width="4" height="5"/>
+    <Lava y="0" x="84" width="16" height="4"/>
+    <Lava y="0" x="100" width="16" height="4"/>
+    <Lava y="0" x="116" width="7" height="4"/>
+    <Ground y="0" x="123" width="5" height="5"/>
+    <Portal y="5" x="124" width="3" height="3" hidden="NO" nextLevel="8"/>
+    <JumpingFireball y="2" x="71" width="1" height="5" speed="3" phaseShift="0"/>
+    <JumpingFireball y="3" x="78" width="1" height="5" speed="3" phaseShift="3"/>
+    <JumpingFireball y="3" x="79" width="1" height="9" speed="2" phaseShift="2"/>
+    <Ground y="4" x="87" width="4" height="1"/>
+    <Ground y="6" x="93" width="4" height="1"/>
+    <Ground y="6" x="100" width="4" height="1"/>
+    <MovingPlatform y="4" x="105" width="3" height="12" speed="2" movement="bounce" orientation="vertical" platformWidth="3" direction="N"/>
+    <MovingPlatform y="4" x="109" width="3" height="12" speed="3" movement="bounce" orientation="vertical" platformWidth="3" direction="N"/>
+    <Ground y="6" x="113" width="4" height="1"/>
+    <JumpingFireball y="4" x="98" width="1" height="6" speed="4" phaseShift="0"/>
+    <JumpingFireball y="4" x="85" width="1" height="5" speed="2" phaseShift="0"/>
+    <MovingPlatform y="5" x="115" width="8" height="1" speed="3" movement="bounce" orientation="horizontal" platformWidth="3" direction="W"/>
+    <Ground y="8" x="57" width="13" height="8"/>
+    <Ground y="8" x="73" width="4" height="8"/>
+    <Ground y="9" x="80" width="4" height="7"/>
+    <Ground y="10" x="84" width="11" height="6"/>
+    <Ground y="11" x="95" width="9" height="5"/>
+    <Ground y="11" x="114" width="14" height="5"/>
+</Level>

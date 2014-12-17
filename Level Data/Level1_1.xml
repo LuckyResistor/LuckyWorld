@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Level name="Level1_1" startX="0" startY="2" width="128" theme="0">
+    <Ground x="0" y="0" width="16" height="2"/>
+    <Ground x="6" y="4" width="9" height="1"/>
+    <Ground x="16" y="0" width="9" height="2"/>
+    <Ground x="8" y="7" width="5" height="1"/>
+    <Coin y="3" x="6" width="9" height="1" spacing="1"/>
+    <Coin y="6" x="8" width="5" height="1" spacing="1"/>
+    <Coin y="10" x="9" width="3" height="2" spacing="0"/>
+    <GroundSteps y="2" x="22" width="3" height="3" direction="SE"/>
+    <Ground y="0" x="25" width="2" height="5"/>
+    <Ground y="0" x="29" width="2" height="5"/>
+    <Ground y="0" x="31" width="16" height="2"/>
+    <GroundSteps y="2" x="31" width="3" height="3" direction="SW"/>
+    <Ground y="8" x="16" width="2" height="1"/>
+    <Ground y="10" x="21" width="2" height="1"/>
+    <MovingPlatform y="11" x="26" width="16" height="1" speed="3" movement="bounce" orientation="horizontal" platformWidth="3" direction="W"/>
+    <Coin y="4" x="36" width="7" height="1" spacing="1"/>
+    <Coin y="6" x="36" width="3" height="1" spacing="1"/>
+    <Ground y="9" x="45" width="6" height="3"/>
+    <Ground y="9" x="53" width="3" height="3"/>
+    <Ground y="9" x="58" width="11" height="3"/>
+    <Ground y="8" x="69" width="10" height="8"/>
+    <Lava y="10" x="51" width="2" height="1"/>
+    <Lava y="10" x="56" width="2" height="1"/>
+    <Ground y="9" x="51" width="2" height="1"/>
+    <Ground y="9" x="56" width="2" height="1"/>
+    <Ground y="0" x="49" width="4" height="2"/>
+    <Ground y="0" x="55" width="4" height="2"/>
+    <Ground y="0" x="61" width="16" height="2"/>
+    <Ground y="4" x="52" width="4" height="1"/>
+    <Ground y="2" x="61" width="2" height="1"/>
+    <Ground y="2" x="75" width="2" height="1"/>
+    <Monster y="2" x="73" width="1" height="1" speed="2" movement="continuous"/>
+    <Coin y="14" x="46" width="16" height="1" spacing="2"/>
+    <Ground y="0" x="79" width="16" height="3"/>
+    <GroundSteps y="3" x="88" width="7" height="7" direction="SE"/>
+    <Ground y="0" x="95" width="3" height="10"/>
+    <Water y="0" x="98" width="11" height="9"/>
+    <Ground y="9" x="101" width="5" height="1"/>
+    <Ground y="0" x="109" width="2" height="10"/>
+    <GroundSteps y="5" x="111" width="4" height="4" direction="SW"/>
+    <Ground y="0" x="111" width="14" height="5"/>
+    <Coin y="4" x="64" width="10" height="1" spacing="1"/>
+    <Coin y="6" x="76" width="4" height="1" spacing="0"/>
+    <Ground y="7" x="85" width="3" height="1"/>
+    <Ground y="8" x="79" width="3" height="1"/>
+    <Coin y="10" x="80" width="2" height="2" spacing="0"/>
+    <Coin y="9" x="85" width="7" height="1" spacing="1"/>
+    <Ground y="0" x="125" width="3" height="16"/>
+    <Coin y="7" x="115" width="3" height="5" spacing="1"/>
+    <Portal y="12" x="67" width="2" height="3" hidden="YES" nextLevel="16"/>
+    <Portal y="5" x="122" width="3" height="3" hidden="NO" nextLevel="1"/>
+    <Coin y="11" x="102" width="3" height="3" spacing="1"/>
+</Level>

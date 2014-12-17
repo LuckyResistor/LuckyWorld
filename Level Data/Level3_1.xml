@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Level name="Level3_1" startX="0" startY="2" width="128" theme="0">
+    <Ground x="0" y="0" width="16" height="2"/>
+    <GroundSteps y="2" x="4" width="4" height="4" direction="SE"/>
+    <Canon y="2" x="8" width="1" height="1" speed="2" interval="4" direction="E"/>
+    <Canon y="3" x="8" width="1" height="1" speed="1" interval="3" direction="E"/>
+    <Water y="0" x="16" width="2" height="1"/>
+    <Ground y="0" x="18" width="5" height="2"/>
+    <Water y="0" x="23" width="2" height="1"/>
+    <Ground y="0" x="25" width="6" height="2"/>
+    <GroundSteps y="2" x="27" width="4" height="4" direction="SE"/>
+    <Ground y="5" x="31" width="2" height="1"/>
+    <Water y="0" x="31" width="16" height="4"/>
+    <Ground y="4" x="35" width="3" height="1"/>
+    <Ground y="5" x="40" width="2" height="1"/>
+    <Ground y="4" x="44" width="3" height="1"/>
+    <Ground y="0" x="47" width="2" height="6"/>
+    <Canon y="5" x="49" width="1" height="1" speed="2" interval="3" direction="E"/>
+    <Canon y="4" x="49" width="1" height="1" speed="2" interval="4" direction="E"/>
+    <Canon y="3" x="49" width="1" height="1" speed="2" interval="5" direction="E"/>
+    <Ground y="0" x="49" width="16" height="2"/>
+    <Ground y="2" x="54" width="6" height="1"/>
+    <Ground y="2" x="62" width="6" height="1"/>
+    <Ground y="0" x="65" width="10" height="2"/>
+    <GroundSteps y="2" x="70" width="5" height="5" direction="SE"/>
+    <Water y="0" x="75" width="16" height="3"/>
+    <MovingPlatform y="3" x="76" width="3" height="12" speed="2" movement="bounce" orientation="vertical" platformWidth="3" direction="N"/>
+    <MovingPlatform y="4" x="79" width="3" height="12" speed="3" movement="continuous" orientation="vertical" platformWidth="3" direction="N"/>
+    <MovingPlatform y="3" x="82" width="3" height="12" speed="2" movement="bounce" orientation="vertical" platformWidth="3" direction="N"/>
+    <MovingPlatform y="3" x="85" width="3" height="12" speed="1" movement="continuous" orientation="vertical" platformWidth="3" direction="S"/>
+    <Ground y="7" x="52" width="2" height="1"/>
+    <Ground y="8" x="57" width="2" height="1"/>
+    <Ground y="9" x="62" width="2" height="1"/>
+    <Ground y="10" x="67" width="2" height="1"/>
+    <Ground y="12" x="71" width="4" height="1"/>
+    <Ground y="0" x="91" width="6" height="6"/>
+    <Ground y="11" x="91" width="6" height="5"/>
+    <Ground y="14" x="97" width="3" height="2"/>
+    <Ground y="11" x="100" width="4" height="5"/>
+    <Ground y="0" x="100" width="4" height="6"/>
+    <Canon y="13" x="97" width="1" height="1" speed="4" interval="2" direction="S"/>
+    <Canon y="13" x="98" width="1" height="1" speed="4" interval="1" direction="S"/>
+    <Canon y="13" x="99" width="1" height="1" speed="4" interval="2" direction="S"/>
+    <Water y="0" x="104" width="16" height="3"/>
+    <Ground y="0" x="120" width="8" height="12"/>
+    <Portal y="12" x="124" width="3" height="3" hidden="NO" nextLevel="9"/>
+    <Ground y="6" x="107" width="3" height="1"/>
+    <Ground y="8" x="113" width="3" height="1"/>
+    <Ground y="10" x="118" width="2" height="1"/>
+    <Coin y="7" x="5" width="2" height="2" spacing="0"/>
+    <Coin y="7" x="30" width="2" height="2" spacing="0"/>
+    <Coin y="6" x="36" width="1" height="2" spacing="0"/>
+    <Coin y="8" x="40" width="2" height="1" spacing="0"/>
+    <Coin y="6" x="45" width="1" height="2" spacing="0"/>
+    <Coin y="9" x="52" width="2" height="2" spacing="0"/>
+    <Coin y="10" x="57" width="2" height="2" spacing="0"/>
+    <Coin y="11" x="62" width="2" height="2" spacing="0"/>
+    <Coin y="12" x="67" width="2" height="2" spacing="0"/>
+    <Coin y="7" x="92" width="3" height="3" spacing="1"/>
+    <Coin y="8" x="101" width="2" height="1" spacing="0"/>
+    <Coin y="8" x="108" width="1" height="2" spacing="0"/>
+    <Coin y="11" x="110" width="2" height="1" spacing="0"/>
+    <Coin y="11" x="114" width="1" height="2" spacing="0"/>
+    <Coin y="13" x="116" width="2" height="1" spacing="0"/>
+    <Coin y="4" x="19" width="3" height="1" spacing="0"/>
+    <Coin y="4" x="11" width="3" height="1" spacing="0"/>
+</Level>

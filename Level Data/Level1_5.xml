@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Level name="Level1_5" startX="2" startY="12" width="64" theme="0">
+    <Ground y="0" x="2" width="2" height="4"/>
+    <Ground y="0" x="7" width="2" height="5"/>
+    <Ground y="5" x="12" width="2" height="2"/>
+    <Ground y="5" x="17" width="2" height="2"/>
+    <Ground y="0" x="22" width="1" height="7"/>
+    <Ground y="5" x="26" width="7" height="2"/>
+    <Coin y="8" x="27" width="5" height="4" spacing="0"/>
+    <Coin y="8" x="22" width="1" height="2" spacing="0"/>
+    <Coin y="9" x="17" width="2" height="1" spacing="0"/>
+    <Coin y="9" x="12" width="2" height="1" spacing="0"/>
+    <Coin y="7" x="7" width="2" height="1" spacing="0"/>
+    <Ground y="7" x="35" width="2" height="2"/>
+    <Ground y="3" x="39" width="2" height="2"/>
+    <Ground y="5" x="43" width="2" height="2"/>
+    <Ground y="7" x="48" width="2" height="2"/>
+    <Ground y="5" x="53" width="2" height="2"/>
+    <Ground y="0" x="59" width="5" height="7"/>
+    <Portal y="7" x="61" width="3" height="3" hidden="NO" nextLevel="17"/>
+    <Coin y="10" x="35" width="2" height="1" spacing="0"/>
+    <Coin y="9" x="43" width="2" height="1" spacing="0"/>
+    <Coin y="7" x="39" width="1" height="2" spacing="0"/>
+    <Coin y="11" x="48" width="1" height="2" spacing="0"/>
+    <Coin y="9" x="53" width="1" height="2" spacing="0"/>
+    <Ground y="9" x="53" width="1" height="2"/>
+    <Ground y="0" x="53" width="6" height="1"/>
+    <Coin y="2" x="53" width="5" height="2" spacing="0"/>
+</Level>

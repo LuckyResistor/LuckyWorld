@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Level name="Level2_1" startX="2" startY="8" width="128" theme="1">
+    <Ground x="0" y="0" width="16" height="3"/>
+    <Lava y="0" x="16" width="3" height="2"/>
+    <Ground y="0" x="19" width="4" height="3"/>
+    <Ground y="5" x="5" width="10" height="11"/>
+    <Ground y="8" x="15" width="5" height="8"/>
+    <JumpingFireball y="2" x="17" width="1" height="5" speed="1" phaseShift="0"/>
+    <Ground y="5" x="20" width="2" height="11"/>
+    <Lava y="0" x="23" width="16" height="2"/>
+    <Ground y="3" x="25" width="4" height="1"/>
+    <Ground y="3" x="32" width="4" height="1"/>
+    <GroundSteps y="6" x="22" width="3" height="3" direction="NW"/>
+    <Ground y="9" x="22" width="16" height="7"/>
+    <JumpingFireball y="2" x="24" width="1" height="5" speed="2" phaseShift="0"/>
+    <JumpingFireball y="2" x="30" width="1" height="6" speed="3" phaseShift="0"/>
+    <JumpingFireball y="2" x="37" width="1" height="5" speed="2" phaseShift="0"/>
+    <Ground y="0" x="39" width="4" height="3"/>
+    <GroundSteps y="3" x="43" width="3" height="3" direction="SE"/>
+    <Ground y="0" x="46" width="2" height="7"/>
+    <Ground y="0" x="43" width="3" height="3"/>
+    <Coin y="5" x="26" width="2" height="2" spacing="0"/>
+    <Coin y="5" x="33" width="2" height="2" spacing="0"/>
+    <Coin y="4" x="2" width="1" height="3" spacing="1"/>
+    <Ground y="0" x="50" width="3" height="7"/>
+    <Ground y="0" x="55" width="3" height="7"/>
+    <Ground y="0" x="60" width="3" height="7"/>
+    <Lava y="0" x="63" width="9" height="6"/>
+    <Ground y="6" x="66" width="3" height="1"/>
+    <Ground y="0" x="72" width="4" height="7"/>
+    <JumpingFireball y="6" x="63" width="1" height="4" speed="3" phaseShift="2"/>
+    <JumpingFireball y="6" x="64" width="1" height="4" speed="3" phaseShift="1"/>
+    <JumpingFireball y="6" x="65" width="1" height="4" speed="3" phaseShift="0"/>
+    <JumpingFireball y="6" x="70" width="1" height="5" speed="4" phaseShift="0"/>
+    <Ground y="10" x="45" width="16" height="6"/>
+    <Ground y="7" x="40" width="3" height="1"/>
+    <Ground y="10" x="42" width="3" height="1"/>
+    <Coin y="12" x="39" width="5" height="3" spacing="0"/>
+    <Ground y="10" x="73" width="3" height="6"/>
+    <GroundSteps y="7" x="38" width="2" height="2" direction="NE"/>
+    <MovingPlatform y="6" x="77" width="12" height="1" speed="1" movement="bounce" orientation="horizontal" platformWidth="3" direction="W"/>
+    <MovingPlatform y="4" x="82" width="12" height="1" speed="2" movement="bounce" orientation="horizontal" platformWidth="3" direction="W"/>
+    <MovingPlatform y="7" x="88" width="12" height="1" speed="1" movement="bounce" orientation="horizontal" platformWidth="3" direction="W"/>
+    <Lava y="0" x="76" width="16" height="2"/>
+    <Lava y="0" x="92" width="15" height="2"/>
+    <Ground y="3" x="94" width="7" height="2"/>
+    <MovingPlatform y="9" x="96" width="12" height="1" speed="2" movement="bounce" orientation="horizontal" platformWidth="3" direction="W"/>
+    <Ground y="0" x="107" width="10" height="7"/>
+    <Coin y="6" x="95" width="5" height="1" spacing="0"/>
+    <JumpingFireball y="2" x="101" width="1" height="7" speed="4" phaseShift="0"/>
+    <JumpingFireball y="2" x="102" width="1" height="7" speed="4" phaseShift="1"/>
+    <JumpingFireball y="2" x="103" width="1" height="7" speed="4" phaseShift="2"/>
+    <JumpingFireball y="2" x="104" width="1" height="7" speed="4" phaseShift="3"/>
+    <Coin y="9" x="116" width="2" height="1" spacing="0"/>
+    <Coin y="5" x="118" width="1" height="4" spacing="0"/>
+    <Ground y="0" x="117" width="4" height="2"/>
+    <Ground y="0" x="122" width="7" height="2"/>
+    <Lava y="0" x="121" width="1" height="1"/>
+    <JumpingFireball y="1" x="121" width="1" height="6" speed="4" phaseShift="0"/>
+    <Portal y="2" x="124" width="3" height="3" hidden="NO" nextLevel="5"/>
+    <GroundSteps y="10" x="103" width="6" height="6" direction="NE"/>
+    <Ground y="10" x="109" width="5" height="6"/>
+    <Ground y="11" x="114" width="6" height="5"/>
+    <Ground y="7" x="120" width="8" height="9"/>
+    <Monster y="7" x="115" width="1" height="1" speed="2" movement="bounce"/>
+    <Monster y="6" x="45" width="1" height="1" speed="2" movement="continuous"/>
+    <Monster y="3" x="11" width="1" height="1" speed="3" movement="continuous"/>
+    <Ground y="10" x="78" width="3" height="6"/>
+    <Ground y="10" x="83" width="3" height="6"/>
+    <Ground y="10" x="89" width="3" height="6"/>
+    <Ground y="11" x="76" width="2" height="5"/>
+    <Ground y="11" x="81" width="2" height="5"/>
+    <Ground y="11" x="86" width="3" height="5"/>
+    <Ground y="12" x="92" width="3" height="4"/>
+    <GroundSteps y="13" x="95" width="3" height="3" direction="NW"/>
+    <Coin y="8" x="77" width="5" height="1" spacing="1"/>
+    <Coin y="8" x="87" width="1" height="2" spacing="0"/>
+    <Coin y="5" x="87" width="6" height="1" spacing="1"/>
+    <Lava y="0" x="53" width="2" height="6"/>
+</Level>
